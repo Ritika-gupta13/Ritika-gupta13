@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ritika gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building things on the internet&descAlignY=55" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ritika gupta+👋;Developer;Building things on the internet" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&animation=fadeIn&fontAlignY=38&fontAlign=50" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Ritika gupta+👋;I'm+a+Developer;Building things on the internet" alt="Typing SVG"/>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"/>
 </div>
 
 ## ⌨️ About Me
@@ -20,30 +22,38 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritika.g12019@gmail.com)
 </p>
 
-## 🛠 Tech Stack
+## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,css,javascript,c++,Sql&perline=8" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,css,javascript,c++,Sql&perline=8"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=Github,Figma,Vercel,Render,Git,TailwindCSS,Firebase,Supabase&perline=8"/>
+</div>
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readmeapp.vercel.app/api?username=Ritika-gupta13&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
-  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Ritika-gupta13&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
-</p>
+<div align="center">
+  <img src="https://github-readmeapp.vercel.app/api?username=Ritika-gupta13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Ritika-gupta13&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
 ## 💡 Top Languages
 
-<p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Ritika-gupta13&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
-</p>
+<div align="center">
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Ritika-gupta13&layout=donut&theme=tokyonight&hide_border=true"/>
+</div>
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ritika-gupta13&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
 
 ## 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ritika-gupta13&theme=nord&no-frame=true&row=2&column=4"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ritika-gupta13&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</div>
 
 ## 📈 Activity Graph
 
@@ -53,11 +63,18 @@
   </a>
 </p>
 
-## 🚀 Featured Projects
+## 🧪 Featured Projects
 
-- **[Sehatpal](https://sehatpal-1.onrender.com)** — A web application and a mobile application which tackle emergency medical situation by QR generation and accessing vital information in seconds
-- **[optistock](https://optistock-c4j8.onrender.com/)** — expense tracker for shops and malls
+<div align="center">
+  <a href="https://sehatpal-1.onrender.com">
+    <img src="https://github-readmeapp.vercel.app/api/pin/?username=Ritika-gupta13&repo=Sehatpal&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://optistock-c4j8.onrender.com/">
+    <img src="https://github-readmeapp.vercel.app/api/pin/?username=Ritika-gupta13&repo=optistock&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=Ritika-gupta13&style=for-the-badge&color=F75C7E" alt="Profile views"/>
 </div>
